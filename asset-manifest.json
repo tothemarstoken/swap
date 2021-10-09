@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.d87cbb72.chunk.css",
-    "main.js": "/static/js/main.b4781196.chunk.js",
-    "main.js.map": "/static/js/main.b4781196.chunk.js.map",
+    "main.js": "/static/js/main.fdfc4616.chunk.js",
+    "main.js.map": "/static/js/main.fdfc4616.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.02cc780a.js",
     "runtime-main.js.map": "/static/js/runtime-main.02cc780a.js.map",
-    "static/js/2.bc8024af.chunk.js": "/static/js/2.bc8024af.chunk.js",
-    "static/js/2.bc8024af.chunk.js.map": "/static/js/2.bc8024af.chunk.js.map",
+    "static/js/2.4c60e016.chunk.js": "/static/js/2.4c60e016.chunk.js",
+    "static/js/2.4c60e016.chunk.js.map": "/static/js/2.4c60e016.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.d87cbb72.chunk.css.map": "/static/css/main.d87cbb72.chunk.css.map",
-    "static/js/2.bc8024af.chunk.js.LICENSE.txt": "/static/js/2.bc8024af.chunk.js.LICENSE.txt",
+    "static/js/2.4c60e016.chunk.js.LICENSE.txt": "/static/js/2.4c60e016.chunk.js.LICENSE.txt",
     "static/media/bnb.95c82668.svg": "/static/media/bnb.95c82668.svg",
     "static/media/logotothemars.2d026759.png": "/static/media/logotothemars.2d026759.png",
     "static/media/logotothemars.984311b0.svg": "/static/media/logotothemars.984311b0.svg",
@@ -18,8 +18,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.02cc780a.js",
-    "static/js/2.bc8024af.chunk.js",
+    "static/js/2.4c60e016.chunk.js",
     "static/css/main.d87cbb72.chunk.css",
-    "static/js/main.b4781196.chunk.js"
+    "static/js/main.fdfc4616.chunk.js"
   ]
 }
