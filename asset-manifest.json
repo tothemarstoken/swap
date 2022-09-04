@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.1a91ded4.js",
+    "static/media/BackgroundImage.svg": "/static/media/BackgroundImage.03c8b18fc7a25c5e585e94770d07c085.svg",
+    "static/media/MartianVerseBarcode.svg": "/static/media/MartianVerseBarcode.6e70aed153db8387757cfe88d92dddc3.svg",
+    "index.html": "/index.html",
+    "main.1a91ded4.js.map": "/static/js/main.1a91ded4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1a91ded4.js"
+  ]
+}
